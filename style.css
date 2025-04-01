@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 20px;
+}
+
+.card-title {
+    background-color: #20342f;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.titelheader {
+    color: rgb(73, 155, 155);
+}
+
+#navbarContent {
+    background-color: #29292f;
+    gap: 150px;
+    border-radius: 10px;
+}
+
+#picture {
+    width: 80%;
+    height: 30vh;
+}
+
+.container {
+    border: 1rem solid;
+}
+
+.nav-link {
+    color: rgb(73, 155, 155);
+}
+
+.accordion-button {
+    background-color: rgb(70, 86, 93);
+}
+
+.accordion-body {
+    background-color: rgb(70, 86, 93);
+}
+
+.accordion-item {
+    color: rgb(73, 155, 155);
+}
